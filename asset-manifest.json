@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CapsuleCorpMusic/static/css/main.cc796c15.css",
+    "main.js": "/CapsuleCorpMusic/static/js/main.31f8de23.js",
+    "index.html": "/CapsuleCorpMusic/index.html",
+    "main.cc796c15.css.map": "/CapsuleCorpMusic/static/css/main.cc796c15.css.map",
+    "main.31f8de23.js.map": "/CapsuleCorpMusic/static/js/main.31f8de23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc796c15.css",
+    "static/js/main.31f8de23.js"
+  ]
+}
